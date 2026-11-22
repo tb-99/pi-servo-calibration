@@ -1,4 +1,4 @@
-# Raspberry Pi Radar Turret
+# Raspberry Pi Pi-Servo Calibration
 
 Pan servo + distance sensor on a Raspberry Pi 4, sweeping to build a radar-style scan.
 
